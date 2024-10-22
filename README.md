@@ -17,7 +17,7 @@ let 恶臭 = homo(1919810);
 <script src="https://cdn.jsdelivr.net/gh/itorr/homo@master/homo.js"></script>
 ```
 
-## 仓库地址
+## 原作のGithub
 [https://github.com/itorr/homo](https://github.com/itorr/homo)
 
 ## ライセンス
