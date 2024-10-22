@@ -1,7 +1,7 @@
 # 恶臭数字论证器
 任意の数値を 114514 からなる数式に分解するツールです。
 
-## 项目首页
+## 原作をプレイ
 [https://lab.magiconch.com/homo/](https://lab.magiconch.com/homo/)
 
 ## 引用方式
@@ -20,5 +20,5 @@ let 恶臭 = homo(1919810);
 ## 仓库地址
 [https://github.com/itorr/homo](https://github.com/itorr/homo)
 
-## 协议
+## ライセンス
 MIT
