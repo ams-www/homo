@@ -21,4 +21,4 @@ let 恶臭 = homo(1919810);
 [https://github.com/itorr/homo](https://github.com/itorr/homo)
 
 ## ライセンス
-MIT
+MITライセンス
